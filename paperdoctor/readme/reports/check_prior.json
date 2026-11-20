@@ -1,0 +1,163 @@
+{
+  "summary": {
+    "total": 15,
+    "pass": 11,
+    "warning": 2,
+    "error": 2,
+    "unverifiable": 0
+  },
+  "results": [
+    {
+      "id": 1,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Aurignacian, about 43,000–33,000 years ago",
+      "claim": "The Aurignacian period spans approximately 43,000–33,000 years ago",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Standard chronology for the Aurignacian technocomplex; consistent with Higham et al. (2012) and recent reviews (e.g., Higham 2011, PNAS; Teyssandier 2008)."
+    },
+    {
+      "id": 2,
+      "page": 2,
+      "source": "introduction",
+      "quote": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+      "claim": "The Aurignacian is the first Upper Palaeolithic technocomplex to spread across most of Europe",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Widely accepted characterization in Paleolithic archaeology; the Aurignacian represents the first pan-European UP culture."
+    },
+    {
+      "id": 3,
+      "page": 2,
+      "source": "introduction",
+      "quote": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+      "claim": "Ivory figurines and flutes were found in well-dated layers at Hohle Fels and Geissenklösterle",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Higham et al. (2012) provides the radiocarbon chronology for Geissenklösterle; the figurines (Hohle Fels) and flutes (both sites) are from these dated Aurignacian layers. Conard et al. (2009) and Higham et al. (2012) together establish this."
+    },
+    {
+      "id": 4,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years old (Conard, 2009)",
+      "claim": "The Hohle Fels female figurine is at least 35,000 years old",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Conard (2009, Nature 459:248-252) reports the figurine from basal Aurignacian layers dated to ≥35,000 cal BP. Verified via Crossref."
+    },
+    {
+      "id": 5,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Repeated sequences of such marks have been read as possible notational or information-storage devices (McPherron et al., 2022)",
+      "claim": "Repeated sequences of Aurignacian marks have been interpreted as possible notational or information-storage devices",
+      "evidence_type": ["related_work"],
+      "status": "error",
+      "reason": "McPherron et al. (2022) is 'Machine learning, bootstrapping, null models, and why we are still not 100% sure which bone surface modifications were made by crocodiles' (J. Hum. Evol. 164:103071) — it concerns crocodile tooth marks on bones, NOT Aurignacian geometric signs or notational systems. This is an incorrect citation.",
+      "suggest": "Replace with correct citation for notational interpretation of Paleolithic marks (e.g., d'Errico 1998, Marshack 1972, or more recent work on Paleolithic notation systems)."
+    },
+    {
+      "id": 6,
+      "page": 2,
+      "source": "introduction",
+      "quote": "their repertoires might differ between regions, as personal ornaments do (Vanhaeren & d'Errico, 2006)",
+      "claim": "Personal ornament repertoires differ between regions in the Aurignacian",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Vanhaeren & d'Errico (2006, J. Archaeol. Sci. 33:1105-1128) demonstrates distinct regional ornament types across Aurignacian Europe. Verified via Crossref."
+    },
+    {
+      "id": 8,
+      "page": 2,
+      "source": "method",
+      "quote": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects from 65 sites in 13 countries",
+      "claim": "SignBase v1.0 contains 531 Aurignacian mobile objects from 65 sites across 13 countries",
+      "evidence_type": ["related_work", "code"],
+      "status": "pass",
+      "reason": "The paper's live code downloads SignBase v1.0 from figshare and reports these exact numbers. The dataset citation (Bentz et al. 2020, figshare DOI 10.6084/m9.figshare.12000018.v1) is verified."
+    },
+    {
+      "id": 19,
+      "page": 4,
+      "source": "discussion",
+      "quote": "so a national difference may reflect the excavation and preservation history of a few sites",
+      "claim": "National differences in sign repertoires may reflect excavation and preservation history of a few dominant sites",
+      "evidence_type": ["experiment", "related_work"],
+      "status": "pass",
+      "reason": "This is a valid methodological caveat supported by the paper's own data (Vogelherd = 30% of German sample, Castanet = 13% of French). Consistent with known sampling biases in Paleolithic archaeology."
+    },
+    {
+      "id": 28,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "so these few rare-sign contrasts do not yet show separate regional traditions",
+      "claim": "The rare-sign contrasts do not demonstrate separate regional sign traditions",
+      "evidence_type": ["experiment", "related_work"],
+      "status": "pass",
+      "reason": "Supported by the paper's own analysis showing high site concentration and small counts for rare signs. The conclusion appropriately qualifies the negative result."
+    },
+    {
+      "id": 33,
+      "page": 2,
+      "source": "introduction",
+      "quote": "well-dated layers (Higham et al., 2012)",
+      "claim": "Higham et al. (2012) provides well-dated layers for Geissenklösterle",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Higham et al. (2012, J. Hum. Evol. 62:664-676) is explicitly a radiocarbon chronology paper for Geissenklösterle. Verified via Crossref (DOI 10.1016/j.jhevol.2012.03.003)."
+    },
+    {
+      "id": 34,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Conard, 2009",
+      "claim": "Conard (2009) reports the Hohle Fels female figurine age as at least 35,000 years",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Conard (2009, Nature 459:248-252) reports the figurine from basal Aurignacian dated ≥35,000 cal BP. Verified via Crossref (DOI 10.1038/nature07995). Note: reference incorrectly cites journal as 'Science' instead of 'Nature' (see check_bib.json)."
+    },
+    {
+      "id": 35,
+      "page": 2,
+      "source": "introduction",
+      "quote": "McPherron et al., 2022",
+      "claim": "McPherron et al. (2022) interprets repeated mark sequences as possible notational devices",
+      "evidence_type": ["related_work"],
+      "status": "error",
+      "reason": "Same error as claim 5. McPherron et al. (2022) is about crocodile bone surface modifications, not Aurignacian marks or notational systems. The citation is completely mismatched.",
+      "suggest": "Replace with appropriate citation for notational interpretation of Paleolithic geometric signs."
+    },
+    {
+      "id": 36,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Vanhaeren & d'Errico, 2006",
+      "claim": "Vanhaeren & d'Errico (2006) show personal ornament repertoires differ between Aurignacian regions",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Verified via Crossref: Vanhaeren & d'Errico (2006, J. Archaeol. Sci. 33:1105-1128) demonstrates regional variation in Aurignacian personal ornaments."
+    },
+    {
+      "id": 37,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Dutkiewicz et al., 2020",
+      "claim": "Dutkiewicz et al. (2020) created SignBase, a collection of geometric signs on Paleolithic mobile objects",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Verified via Crossref: Dutkiewicz et al. (2020, Sci. Data 7:364, DOI 10.1038/s41597-020-00704-x) describes the SignBase dataset."
+    },
+    {
+      "id": 38,
+      "page": 2,
+      "source": "method",
+      "quote": "Bentz et al., 2020",
+      "claim": "Bentz et al. (2020) is the SignBase main data file citation",
+      "evidence_type": ["related_work"],
+      "status": "pass",
+      "reason": "Verified: Bentz et al. (2020) is the figshare dataset citation (DOI 10.6084/m9.figshare.12000018.v1) for SignBase v1.0 main data file."
+    }
+  ]
+}

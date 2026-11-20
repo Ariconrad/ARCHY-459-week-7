@@ -1,0 +1,1958 @@
+[
+  {
+    "id": "claim-1",
+    "quote": "Aurignacian, about 43,000–33,000 years ago",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          107.5,
+          201.0,
+          307.4,
+          218.4
+        ],
+        "term": "Aurignacian, about 43,000–33,000 years ago",
+        "candidate": "Aurignacian, about 43,000–33,000 years ago",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-2",
+    "quote": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          334.0,
+          201.0,
+          527.2,
+          218.4
+        ],
+        "term": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+        "candidate": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          215.4,
+          223.0,
+          232.7
+        ],
+        "term": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+        "candidate": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-3",
+    "quote": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          341.8,
+          229.8,
+          527.2,
+          247.1
+        ],
+        "term": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+        "candidate": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          244.2,
+          267.6,
+          261.5
+        ],
+        "term": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+        "candidate": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-4",
+    "quote": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years old (Conard, 2009)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          289.4,
+          244.2,
+          527.2,
+          261.5
+        ],
+        "term": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years old (Conard, 2009)",
+        "candidate": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          258.6,
+          300.4,
+          275.9
+        ],
+        "term": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years old (Conard, 2009)",
+        "candidate": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-5",
+    "quote": "Repeated sequences of such marks have been read as possible notational or information-storage devices (McPherron et al., 2022)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          269.2,
+          293.4,
+          527.2,
+          310.7
+        ],
+        "term": "Repeated sequences of such marks have been read as possible notational or information-storage devices (McPherron et al., 2022)",
+        "candidate": "Repeated sequences of such marks have been read as possible notational or inform",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          307.8,
+          318.5,
+          325.1
+        ],
+        "term": "Repeated sequences of such marks have been read as possible notational or information-storage devices (McPherron et al., 2022)",
+        "candidate": "Repeated sequences of such marks have been read as possible notational or inform",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-6",
+    "quote": "their repertoires might differ between regions, as personal ornaments do (Vanhaeren & d'Errico, 2006)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          146.7,
+          322.2,
+          523.2,
+          339.5
+        ],
+        "term": "their repertoires might differ between regions, as personal ornaments do (Vanhaeren & d'Errico, 2006)",
+        "candidate": "their repertoires might differ between regions, as personal ornaments do (Vanhae",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-7",
+    "quote": "Using SignBase (Dutkiewicz et al., 2020), I ask whether sign repertoires differ between Germany and France",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          169.4,
+          336.6,
+          524.4,
+          353.9
+        ],
+        "term": "Using SignBase (Dutkiewicz et al., 2020), I ask whether sign repertoires differ between Germany and France",
+        "candidate": "Using SignBase (Dutkiewicz et al., 2020), I ask whether sign repertoires differ",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-8",
+    "quote": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects from 65 sites in 13 countries",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          396.2,
+          495.6,
+          413.5
+        ],
+        "term": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects from 65 sites in 13 countries",
+        "candidate": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects from 6",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-9",
+    "quote": "with 31 binary columns for the presence of each sign type",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          135.6,
+          410.6,
+          410.9,
+          427.9
+        ],
+        "term": "with 31 binary columns for the presence of each sign type",
+        "candidate": "with 31 binary columns for the presence of each sign type",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-10",
+    "quote": "Germany (n = 264) and France (n = 148) provide most records",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          413.4,
+          411.8,
+          526.0,
+          426.7
+        ],
+        "term": "Germany (n = 264) and France (n = 148) provide most records",
+        "candidate": "Germany (n = 264) and France (n = 148) provide most records",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          424.9,
+          268.9,
+          442.3
+        ],
+        "term": "Germany (n = 264) and France (n = 148) provide most records",
+        "candidate": "Germany (n = 264) and France (n = 148) provide most records",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-11",
+    "quote": "restricted the analysis to these two countries and removed duplicate records",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          291.3,
+          424.9,
+          527.2,
+          442.3
+        ],
+        "term": "restricted the analysis to these two countries and removed duplicate records",
+        "candidate": "restricted the analysis to these two countries and removed duplicate records",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          439.3,
+          211.0,
+          456.7
+        ],
+        "term": "restricted the analysis to these two countries and removed duplicate records",
+        "candidate": "restricted the analysis to these two countries and removed duplicate records",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-12",
+    "quote": "calculated the proportion of objects carrying each sign type in each country and counted the objects from each site",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          439.3,
+          527.2,
+          471.1
+        ],
+        "term": "calculated the proportion of objects carrying each sign type in each country and counted the objects from each site",
+        "candidate": "calculated the proportion of objects carrying each sign type in each country and",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-13",
+    "quote": "analysed sample contains 108 objects (46 German, 62 French)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          108.1,
+          242.5,
+          390.2,
+          259.9
+        ],
+        "term": "analysed sample contains 108 objects (46 German, 62 French)",
+        "candidate": "analysed sample contains 108 objects (46 German, 62 French)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-14",
+    "quote": "most frequent sign type is notch in Germany and notch in France",
+    "status": "info",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          411.5,
+          242.5,
+          527.2,
+          259.9
+        ],
+        "term": "most frequent sign type is notch in Germany and notch in France",
+        "candidate": "most frequent sign type is notch in Germany and notch in France",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 3,
+        "bbox": [
+          87.6,
+          256.9,
+          274.9,
+          274.3
+        ],
+        "term": "most frequent sign type is notch in Germany and notch in France",
+        "candidate": "most frequent sign type is notch in Germany and notch in France",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-15",
+    "quote": "German objects come from 9 sites and the French objects from 21",
+    "status": "info",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          295.8,
+          256.9,
+          527.2,
+          274.3
+        ],
+        "term": "German objects come from 9 sites and the French objects from 21",
+        "candidate": "German objects come from 9 sites and the French objects from 21",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 3,
+        "bbox": [
+          88.8,
+          272.5,
+          160.0,
+          287.4
+        ],
+        "term": "German objects come from 9 sites and the French objects from 21",
+        "candidate": "German objects come from 9 sites and the French objects from 21",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-16",
+    "quote": "Figure 1 shows how the common sign types are spread across these sites",
+    "status": "info",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          161.6,
+          271.3,
+          492.0,
+          288.6
+        ],
+        "term": "Figure 1 shows how the common sign types are spread across these sites",
+        "candidate": "Figure 1 shows how the common sign types are spread across these sites",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-17",
+    "quote": "Vogelherd alone supplies 30% of the German objects",
+    "status": "info",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          280.1,
+          598.2,
+          523.9,
+          615.5
+        ],
+        "term": "Vogelherd alone supplies 30% of the German objects",
+        "candidate": "Vogelherd alone supplies 30% of the German objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-18",
+    "quote": "Castanet supplies 13% of the French ones",
+    "status": "info",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          106.7,
+          612.5,
+          295.0,
+          629.9
+        ],
+        "term": "Castanet supplies 13% of the French ones",
+        "candidate": "Castanet supplies 13% of the French ones",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-19",
+    "quote": "so a national difference may reflect the excavation and preservation history of a few sites",
+    "status": "info",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          295.2,
+          612.5,
+          527.2,
+          629.9
+        ],
+        "term": "so a national difference may reflect the excavation and preservation history of a few sites",
+        "candidate": "so a national difference may reflect the excavation and preservation history of",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 4,
+        "bbox": [
+          87.6,
+          626.9,
+          262.5,
+          644.3
+        ],
+        "term": "so a national difference may reflect the excavation and preservation history of a few sites",
+        "candidate": "so a national difference may reflect the excavation and preservation history of",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-20",
+    "quote": "Objects from the same layer are not independent, so sites rather than objects are the better unit of comparison",
+    "status": "info",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          263.9,
+          626.9,
+          527.2,
+          644.3
+        ],
+        "term": "Objects from the same layer are not independent, so sites rather than objects are the better unit of comparison",
+        "candidate": "Objects from the same layer are not independent, so sites rather than objects ar",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 4,
+        "bbox": [
+          87.6,
+          641.3,
+          327.0,
+          658.7
+        ],
+        "term": "Objects from the same layer are not independent, so sites rather than objects are the better unit of comparison",
+        "candidate": "Objects from the same layer are not independent, so sites rather than objects ar",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-21",
+    "quote": "Germany and France share their common sign types and differ only in rare ones",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          156.2,
+          103.2,
+          523.9,
+          120.5
+        ],
+        "term": "Germany and France share their common sign types and differ only in rare ones",
+        "candidate": "Germany and France share their common sign types and differ only in rare ones",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-22",
+    "quote": "Notches and lines are the two most frequent signs in both countries",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          117.6,
+          442.2,
+          134.9
+        ],
+        "term": "Notches and lines are the two most frequent signs in both countries",
+        "candidate": "Notches and lines are the two most frequent signs in both countries",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-23",
+    "quote": "Notches appear on 57% of German objects and 45% of French objects",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          402.1,
+          117.6,
+          527.2,
+          134.9
+        ],
+        "term": "Notches appear on 57% of German objects and 45% of French objects",
+        "candidate": "Notches appear on 57% of German objects and 45% of French objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          132.0,
+          282.8,
+          149.3
+        ],
+        "term": "Notches appear on 57% of German objects and 45% of French objects",
+        "candidate": "Notches appear on 57% of German objects and 45% of French objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-24",
+    "quote": "lines on 35% and 35%",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          304.1,
+          133.2,
+          401.8,
+          148.1
+        ],
+        "term": "lines on 35% and 35%",
+        "candidate": "lines on 35% and 35%",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-25",
+    "quote": "oblique lines occur on 15% of German objects but 2% of French ones",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          146.4,
+          527.2,
+          178.1
+        ],
+        "term": "oblique lines occur on 15% of German objects but 2% of French ones",
+        "candidate": "oblique lines occur on 15% of German objects but 2% of French ones",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-26",
+    "quote": "vulva signs appear only in France, on 8% of French objects",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          131.1,
+          160.7,
+          389.4,
+          178.1
+        ],
+        "term": "vulva signs appear only in France, on 8% of French objects",
+        "candidate": "vulva signs appear only in France, on 8% of French objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-27",
+    "quote": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the German objects",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          354.4,
+          160.7,
+          527.2,
+          178.1
+        ],
+        "term": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the German objects",
+        "candidate": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the Germ",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          175.1,
+          319.4,
+          192.5
+        ],
+        "term": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the German objects",
+        "candidate": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the Germ",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-28",
+    "quote": "so these few rare-sign contrasts do not yet show separate regional traditions",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          364.5,
+          175.1,
+          527.2,
+          192.5
+        ],
+        "term": "so these few rare-sign contrasts do not yet show separate regional traditions",
+        "candidate": "so these few rare-sign contrasts do not yet show separate regional traditions",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          189.5,
+          276.7,
+          206.9
+        ],
+        "term": "so these few rare-sign contrasts do not yet show separate regional traditions",
+        "candidate": "so these few rare-sign contrasts do not yet show separate regional traditions",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-29",
+    "quote": "distinct(site_name, object_type, .keep_all = TRUE)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          106.2,
+          525.9,
+          375.9,
+          540.3
+        ],
+        "term": "distinct(site_name, object_type, .keep_all = TRUE)",
+        "candidate": "distinct(site_name, object_type, .keep_all = TRUE)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-30",
+    "quote": "pivot_longer(line:other, names_to = \"sign\", values_to = \"present\")",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          96.8,
+          555.1,
+          460.7,
+          594.0
+        ],
+        "term": "pivot_longer(line:other, names_to = \"sign\", values_to = \"present\")",
+        "candidate": "pivot_longer(line:other, names_to = \"sign\", values_to = \"present\")",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-31",
+    "quote": "top10 <- sign_freq |> summarise(n = sum(n_present), .by = sign) |> slice_max(n, n = 10, with_ties = FALSE)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          95.6,
+          623.1,
+          344.1,
+          664.4
+        ],
+        "term": "top10 <- sign_freq |> summarise(n = sum(n_present), .by = sign) |> slice_max(n, n = 10, with_ties = FALSE)",
+        "candidate": "top10 <- sign_freq |> summarise(n = sum(n_present), .by = sign) |> slice_max(n",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-32",
+    "quote": "fct_reorder(site_name, n_site)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          324.6,
+          413.8,
+          485.9,
+          425.8
+        ],
+        "term": "fct_reorder(site_name, n_site)",
+        "candidate": "fct_reorder(site_name, n_site)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-33",
+    "quote": "well-dated layers (Higham et al., 2012)",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          244.2,
+          267.6,
+          261.5
+        ],
+        "term": "well-dated layers (Higham et al., 2012)",
+        "candidate": "well-dated layers (Higham et al., 2012)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-34",
+    "quote": "Conard, 2009",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          239.1,
+          259.8,
+          300.4,
+          274.7
+        ],
+        "term": "Conard, 2009",
+        "candidate": "Conard, 2009",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-35",
+    "quote": "McPherron et al., 2022",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          322.6,
+          309.0,
+          426.5,
+          323.9
+        ],
+        "term": "McPherron et al., 2022",
+        "candidate": "McPherron et al., 2022",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-36",
+    "quote": "Vanhaeren & d'Errico, 2006",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          472.6,
+          323.4,
+          526.0,
+          338.3
+        ],
+        "term": "Vanhaeren & d'Errico, 2006",
+        "candidate": "Vanhaeren & d’Errico, 2006",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          88.8,
+          337.8,
+          164.1,
+          352.7
+        ],
+        "term": "Vanhaeren & d'Errico, 2006",
+        "candidate": "Vanhaeren & d’Errico, 2006",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-37",
+    "quote": "Dutkiewicz et al., 2020",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          246.7,
+          337.8,
+          351.2,
+          352.7
+        ],
+        "term": "Dutkiewicz et al., 2020",
+        "candidate": "Dutkiewicz et al., 2020",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-38",
+    "quote": "Bentz et al., 2020",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          159.1,
+          397.4,
+          241.2,
+          412.3
+        ],
+        "term": "Bentz et al., 2020",
+        "candidate": "Bentz et al., 2020",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-39",
+    "quote": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects",
+    "status": "info",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          396.2,
+          432.4,
+          413.5
+        ],
+        "term": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects",
+        "candidate": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-40",
+    "quote": "Figure 1 shows how the common sign types are spread across these sites",
+    "status": "info",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          161.6,
+          271.3,
+          492.0,
+          288.6
+        ],
+        "term": "Figure 1 shows how the common sign types are spread across these sites",
+        "candidate": "Figure 1 shows how the common sign types are spread across these sites",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-41",
+    "quote": "Vogelherd alone supplies 30% of the German objects, and Castanet supplies 13% of the French ones",
+    "status": "info",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          280.1,
+          598.2,
+          529.1,
+          615.5
+        ],
+        "term": "Vogelherd alone supplies 30% of the German objects, and Castanet supplies 13% of the French ones",
+        "candidate": "Vogelherd alone supplies 30% of the German objects, and Castanet supplies 13% of",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 4,
+        "bbox": [
+          87.6,
+          612.5,
+          293.8,
+          629.9
+        ],
+        "term": "Vogelherd alone supplies 30% of the German objects, and Castanet supplies 13% of the French ones",
+        "candidate": "Vogelherd alone supplies 30% of the German objects, and Castanet supplies 13% of",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "claim-42",
+    "quote": "Notches appear on 57% of German objects and 45% of French objects, and lines on 35% and 35%",
+    "status": "info",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          402.1,
+          117.6,
+          527.2,
+          134.9
+        ],
+        "term": "Notches appear on 57% of German objects and 45% of French objects, and lines on 35% and 35%",
+        "candidate": "Notches appear on 57% of German objects and 45% of French objects, and lines on",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          132.0,
+          343.2,
+          149.3
+        ],
+        "term": "Notches appear on 57% of German objects and 45% of French objects, and lines on 35% and 35%",
+        "candidate": "Notches appear on 57% of German objects and 45% of French objects, and lines on",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-0",
+    "quote": "Warning: package 'tidyverse' was built under R version 4.5.3",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 1,
+        "bbox": [
+          95.6,
+          260.9,
+          418.3,
+          275.3
+        ],
+        "term": "Warning: package 'tidyverse' was built under R version 4.5.3",
+        "candidate": "Warning: package 'tidyverse' was built under R version 4.5.3",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-1",
+    "quote": "Attaching core tidyverse packages",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 1,
+        "bbox": [
+          110.5,
+          512.1,
+          287.2,
+          526.5
+        ],
+        "term": "Attaching core tidyverse packages",
+        "candidate": "Attaching core tidyverse packages",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-2",
+    "quote": "Conflicts ────────────────────────────────────────── tidyverse_conflicts()",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 1,
+        "bbox": [
+          115.4,
+          596.3,
+          170.8,
+          608.3
+        ],
+        "term": "Conflicts ────────────────────────────────────────── tidyverse_conflicts()",
+        "candidate": "Conflicts ────────────────────────────────────────── tidyverse_conflicts()",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 1,
+        "bbox": [
+          171.0,
+          596.3,
+          401.2,
+          608.3
+        ],
+        "term": "Conflicts ────────────────────────────────────────── tidyverse_conflicts()",
+        "candidate": "Conflicts ────────────────────────────────────────── tidyverse_conflicts()",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 1,
+        "bbox": [
+          401.5,
+          596.3,
+          515.2,
+          608.3
+        ],
+        "term": "Conflicts ────────────────────────────────────────── tidyverse_conflicts()",
+        "candidate": "Conflicts ────────────────────────────────────────── tidyverse_conflicts()",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-3",
+    "quote": "south­western Germany",
+    "status": "warning",
+    "matches": []
+  },
+  {
+    "id": "txt-4",
+    "quote": "Geißenklösterle",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          211.5,
+          383.6,
+          284.8,
+          398.5
+        ],
+        "term": "Geißenklösterle",
+        "candidate": "Geißenklösterle",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-5",
+    "quote": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          396.2,
+          432.4,
+          413.5
+        ],
+        "term": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects",
+        "candidate": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-6",
+    "quote": "with 31 binary columns for the presence of each sign type",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          135.6,
+          410.6,
+          410.9,
+          427.9
+        ],
+        "term": "with 31 binary columns for the presence of each sign type",
+        "candidate": "with 31 binary columns for the presence of each sign type",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-7",
+    "quote": "analysed sample contains 108 objects (46 German, 62 French)",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          108.1,
+          242.5,
+          390.2,
+          259.9
+        ],
+        "term": "analysed sample contains 108 objects (46 German, 62 French)",
+        "candidate": "analysed sample contains 108 objects (46 German, 62 French)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-8",
+    "quote": "The most frequent sign type is notch in Germany and notch in France",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          391.0,
+          242.5,
+          527.2,
+          259.9
+        ],
+        "term": "The most frequent sign type is notch in Germany and notch in France",
+        "candidate": "The most frequent sign type is notch in Germany and notch in France",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 3,
+        "bbox": [
+          87.6,
+          256.9,
+          274.9,
+          274.3
+        ],
+        "term": "The most frequent sign type is notch in Germany and notch in France",
+        "candidate": "The most frequent sign type is notch in Germany and notch in France",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-9",
+    "quote": "Figure 1 shows how the common sign types are spread across these sites",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 3,
+        "bbox": [
+          161.6,
+          271.3,
+          492.0,
+          288.6
+        ],
+        "term": "Figure 1 shows how the common sign types are spread across these sites",
+        "candidate": "Figure 1 shows how the common sign types are spread across these sites",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-10",
+    "quote": "Vogelherd alone supplies 30% of the German objects",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          280.1,
+          598.2,
+          523.9,
+          615.5
+        ],
+        "term": "Vogelherd alone supplies 30% of the German objects",
+        "candidate": "Vogelherd alone supplies 30% of the German objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-11",
+    "quote": "Castanet supplies 13% of the French ones",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          106.7,
+          612.5,
+          295.0,
+          629.9
+        ],
+        "term": "Castanet supplies 13% of the French ones",
+        "candidate": "Castanet supplies 13% of the French ones",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-12",
+    "quote": "Objects from the same layer are not independent, so sites rather than objects are the better unit of comparison",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          263.9,
+          626.9,
+          527.2,
+          644.3
+        ],
+        "term": "Objects from the same layer are not independent, so sites rather than objects are the better unit of comparison",
+        "candidate": "Objects from the same layer are not independent, so sites rather than objects ar",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 4,
+        "bbox": [
+          87.6,
+          641.3,
+          327.0,
+          658.7
+        ],
+        "term": "Objects from the same layer are not independent, so sites rather than objects are the better unit of comparison",
+        "candidate": "Objects from the same layer are not independent, so sites rather than objects ar",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-13",
+    "quote": "Germany and France share their common sign types and differ only in rare ones",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          156.2,
+          103.2,
+          523.9,
+          120.5
+        ],
+        "term": "Germany and France share their common sign types and differ only in rare ones",
+        "candidate": "Germany and France share their common sign types and differ only in rare ones",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-14",
+    "quote": "Notches appear on 57% of German objects and 45% of French objects",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          402.1,
+          117.6,
+          527.2,
+          134.9
+        ],
+        "term": "Notches appear on 57% of German objects and 45% of French objects",
+        "candidate": "Notches appear on 57% of German objects and 45% of French objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          132.0,
+          282.8,
+          149.3
+        ],
+        "term": "Notches appear on 57% of German objects and 45% of French objects",
+        "candidate": "Notches appear on 57% of German objects and 45% of French objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-15",
+    "quote": "oblique lines occur on 15% of German objects but 2% of French ones",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          146.4,
+          527.2,
+          178.1
+        ],
+        "term": "oblique lines occur on 15% of German objects but 2% of French ones",
+        "candidate": "oblique lines occur on 15% of German objects but 2% of French ones",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-16",
+    "quote": "vulva signs appear only in France, on 8% of French objects",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          131.1,
+          160.7,
+          389.4,
+          178.1
+        ],
+        "term": "vulva signs appear only in France, on 8% of French objects",
+        "candidate": "vulva signs appear only in France, on 8% of French objects",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-17",
+    "quote": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the German objects",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          354.4,
+          160.7,
+          527.2,
+          178.1
+        ],
+        "term": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the German objects",
+        "candidate": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the Germ",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          175.1,
+          319.4,
+          192.5
+        ],
+        "term": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the German objects",
+        "candidate": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the Germ",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-18",
+    "quote": "do not yet show separate regional traditions",
+    "status": "error",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          496.8,
+          176.3,
+          538.8,
+          191.3
+        ],
+        "term": "do not yet show separate regional traditions",
+        "candidate": "do not yet show separate regional traditions",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          189.5,
+          276.7,
+          206.9
+        ],
+        "term": "do not yet show separate regional traditions",
+        "candidate": "do not yet show separate regional traditions",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "txt-19",
+    "quote": "Palaeolithic",
+    "status": "error",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          385.9,
+          202.2,
+          440.7,
+          217.2
+        ],
+        "term": "Palaeolithic",
+        "candidate": "Palaeolithic",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "ref-002",
+    "quote": "Conard, N. J. (2009). A female figurine from the basal Aurignacian of Hohle Fels",
+    "status": "error",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          269.6,
+          456.5,
+          286.9
+        ],
+        "term": "Conard, N. J. (2009). A female figurine from the basal Aurignacian of Hohle Fels",
+        "candidate": "Conard, N. J. (2009). A female figurine from the basal Aurignacian of Hohle Fels",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "ref-005",
+    "quote": "McPherron, S. P., Archer, W., Otárola-Castillo, E. R., Torquato, M. G., & Keevil",
+    "status": "warning",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          402.8,
+          429.9,
+          420.2
+        ],
+        "term": "McPherron, S. P., Archer, W., Otárola-Castillo, E. R., Torquato, M. G., & Keevil",
+        "candidate": "McPherron, S. P., Archer, W., Otárola-Castillo, E. R., Torquato, M. G., & Keevil",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-1",
+    "quote": "Aurignacian, about 43,000–33,000 years ago",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          107.5,
+          201.0,
+          307.4,
+          218.4
+        ],
+        "term": "Aurignacian, about 43,000–33,000 years ago",
+        "candidate": "Aurignacian, about 43,000–33,000 years ago",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-2",
+    "quote": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          334.0,
+          201.0,
+          527.2,
+          218.4
+        ],
+        "term": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+        "candidate": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          215.4,
+          223.0,
+          232.7
+        ],
+        "term": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+        "candidate": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-3",
+    "quote": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          341.8,
+          229.8,
+          527.2,
+          247.1
+        ],
+        "term": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+        "candidate": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          244.2,
+          267.6,
+          261.5
+        ],
+        "term": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+        "candidate": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-4",
+    "quote": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years old (Conard, 2009)",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          289.4,
+          244.2,
+          527.2,
+          261.5
+        ],
+        "term": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years old (Conard, 2009)",
+        "candidate": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          258.6,
+          300.4,
+          275.9
+        ],
+        "term": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years old (Conard, 2009)",
+        "candidate": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-5",
+    "quote": "Repeated sequences of such marks have been read as possible notational or information-storage devices (McPherron et al., 2022)",
+    "status": "error",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          269.2,
+          293.4,
+          527.2,
+          310.7
+        ],
+        "term": "Repeated sequences of such marks have been read as possible notational or information-storage devices (McPherron et al., 2022)",
+        "candidate": "Repeated sequences of such marks have been read as possible notational or inform",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          307.8,
+          318.5,
+          325.1
+        ],
+        "term": "Repeated sequences of such marks have been read as possible notational or information-storage devices (McPherron et al., 2022)",
+        "candidate": "Repeated sequences of such marks have been read as possible notational or inform",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-6",
+    "quote": "their repertoires might differ between regions, as personal ornaments do (Vanhaeren & d'Errico, 2006)",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          146.7,
+          322.2,
+          523.2,
+          339.5
+        ],
+        "term": "their repertoires might differ between regions, as personal ornaments do (Vanhaeren & d'Errico, 2006)",
+        "candidate": "their repertoires might differ between regions, as personal ornaments do (Vanhae",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-8",
+    "quote": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects from 65 sites in 13 countries",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          396.2,
+          495.6,
+          413.5
+        ],
+        "term": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects from 65 sites in 13 countries",
+        "candidate": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects from 6",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-19",
+    "quote": "so a national difference may reflect the excavation and preservation history of a few sites",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 4,
+        "bbox": [
+          295.2,
+          612.5,
+          527.2,
+          629.9
+        ],
+        "term": "so a national difference may reflect the excavation and preservation history of a few sites",
+        "candidate": "so a national difference may reflect the excavation and preservation history of",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 4,
+        "bbox": [
+          87.6,
+          626.9,
+          262.5,
+          644.3
+        ],
+        "term": "so a national difference may reflect the excavation and preservation history of a few sites",
+        "candidate": "so a national difference may reflect the excavation and preservation history of",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-28",
+    "quote": "so these few rare-sign contrasts do not yet show separate regional traditions",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 5,
+        "bbox": [
+          364.5,
+          175.1,
+          527.2,
+          192.5
+        ],
+        "term": "so these few rare-sign contrasts do not yet show separate regional traditions",
+        "candidate": "so these few rare-sign contrasts do not yet show separate regional traditions",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 5,
+        "bbox": [
+          87.6,
+          189.5,
+          276.7,
+          206.9
+        ],
+        "term": "so these few rare-sign contrasts do not yet show separate regional traditions",
+        "candidate": "so these few rare-sign contrasts do not yet show separate regional traditions",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-33",
+    "quote": "well-dated layers (Higham et al., 2012)",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          87.6,
+          244.2,
+          267.6,
+          261.5
+        ],
+        "term": "well-dated layers (Higham et al., 2012)",
+        "candidate": "well-dated layers (Higham et al., 2012)",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-34",
+    "quote": "Conard, 2009",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          239.1,
+          259.8,
+          300.4,
+          274.7
+        ],
+        "term": "Conard, 2009",
+        "candidate": "Conard, 2009",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-35",
+    "quote": "McPherron et al., 2022",
+    "status": "error",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          322.6,
+          309.0,
+          426.5,
+          323.9
+        ],
+        "term": "McPherron et al., 2022",
+        "candidate": "McPherron et al., 2022",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-36",
+    "quote": "Vanhaeren & d'Errico, 2006",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          472.6,
+          323.4,
+          526.0,
+          338.3
+        ],
+        "term": "Vanhaeren & d'Errico, 2006",
+        "candidate": "Vanhaeren & d’Errico, 2006",
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "page": 2,
+        "bbox": [
+          88.8,
+          337.8,
+          164.1,
+          352.7
+        ],
+        "term": "Vanhaeren & d'Errico, 2006",
+        "candidate": "Vanhaeren & d’Errico, 2006",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-37",
+    "quote": "Dutkiewicz et al., 2020",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          246.7,
+          337.8,
+          351.2,
+          352.7
+        ],
+        "term": "Dutkiewicz et al., 2020",
+        "candidate": "Dutkiewicz et al., 2020",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  },
+  {
+    "id": "prior-38",
+    "quote": "Bentz et al., 2020",
+    "status": "pass",
+    "matches": [
+      {
+        "page": 2,
+        "bbox": [
+          159.1,
+          397.4,
+          241.2,
+          412.3
+        ],
+        "term": "Bentz et al., 2020",
+        "candidate": "Bentz et al., 2020",
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+]

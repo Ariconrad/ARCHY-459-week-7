@@ -1,0 +1,349 @@
+{
+  "summary": {
+    "total_claims": 42,
+    "by_evidence_type": {
+      "experiment": 24,
+      "related_work": 14,
+      "theoretical": 0,
+      "code": 4
+    }
+  },
+  "results": [
+    {
+      "id": 1,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Aurignacian, about 43,000–33,000 years ago",
+      "claim": "The Aurignacian period spans approximately 43,000–33,000 years ago",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 2,
+      "page": 2,
+      "source": "introduction",
+      "quote": "first Upper Palaeolithic technocomplex to spread across most of Europe",
+      "claim": "The Aurignacian is the first Upper Palaeolithic technocomplex to spread across most of Europe",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 3,
+      "page": 2,
+      "source": "introduction",
+      "quote": "ivory figurines and flutes were found in well-dated layers (Higham et al., 2012)",
+      "claim": "Ivory figurines and flutes were found in well-dated layers at Hohle Fels and Geissenklösterle",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 4,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Hohle Fels female figurine, carved from mammoth ivory, is at least 35,000 years old (Conard, 2009)",
+      "claim": "The Hohle Fels female figurine is at least 35,000 years old",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 5,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Repeated sequences of such marks have been read as possible notational or information-storage devices (McPherron et al., 2022)",
+      "claim": "Repeated sequences of Aurignacian marks have been interpreted as possible notational or information-storage devices",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 6,
+      "page": 2,
+      "source": "introduction",
+      "claim": "Personal ornament repertoires differ between regions in the Aurignacian",
+      "evidence_type": ["related_work"],
+      "quote": "their repertoires might differ between regions, as personal ornaments do (Vanhaeren & d'Errico, 2006)"
+    },
+    {
+      "id": 7,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Using SignBase (Dutkiewicz et al., 2020), I ask whether sign repertoires differ between Germany and France",
+      "claim": "The study uses SignBase to test whether sign repertoires differ between Germany and France",
+      "evidence_type": ["experiment", "code"]
+    },
+    {
+      "id": 8,
+      "page": 2,
+      "source": "method",
+      "quote": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects from 65 sites in 13 countries",
+      "claim": "SignBase v1.0 contains 531 Aurignacian mobile objects from 65 sites across 13 countries",
+      "evidence_type": ["related_work", "code"]
+    },
+    {
+      "id": 9,
+      "page": 2,
+      "source": "method",
+      "quote": "with 31 binary columns for the presence of each sign type",
+      "claim": "SignBase has 31 binary columns coding for the presence of each sign type",
+      "evidence_type": ["code"]
+    },
+    {
+      "id": 10,
+      "page": 2,
+      "source": "method",
+      "quote": "Germany (n = 264) and France (n = 148) provide most records",
+      "claim": "Germany contributes 264 records and France contributes 148 records to SignBase",
+      "evidence_type": ["experiment", "code"]
+    },
+    {
+      "id": 11,
+      "page": 2,
+      "source": "method",
+      "quote": "restricted the analysis to these two countries and removed duplicate records",
+      "claim": "The analysis is restricted to Germany and France with duplicate records removed",
+      "evidence_type": ["code"]
+    },
+    {
+      "id": 12,
+      "page": 2,
+      "source": "method",
+      "quote": "calculated the proportion of objects carrying each sign type in each country and counted the objects from each site",
+      "claim": "The analysis calculates sign-type proportions per country and object counts per site",
+      "evidence_type": ["code", "experiment"]
+    },
+    {
+      "id": 13,
+      "page": 3,
+      "source": "results",
+      "quote": "analysed sample contains 108 objects (46 German, 62 French)",
+      "claim": "After deduplication, the analyzed sample contains 108 objects: 46 from Germany and 62 from France",
+      "evidence_type": ["experiment", "code"]
+    },
+    {
+      "id": 14,
+      "page": 3,
+      "source": "results",
+      "quote": "most frequent sign type is notch in Germany and notch in France",
+      "claim": "Notches are the most frequent sign type in both Germany and France",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 15,
+      "page": 3,
+      "source": "results",
+      "quote": "German objects come from 9 sites and the French objects from 21",
+      "claim": "German objects come from 9 sites and French objects from 21 sites",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 16,
+      "page": 3,
+      "source": "results",
+      "quote": "Figure 1 shows how the common sign types are spread across these sites",
+      "claim": "Figure 1 displays the distribution of the ten most common sign types across sites",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 17,
+      "page": 4,
+      "source": "discussion",
+      "quote": "Vogelherd alone supplies 30% of the German objects",
+      "claim": "Vogelherd alone supplies 30% of the German objects in the analyzed sample",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 18,
+      "page": 4,
+      "source": "discussion",
+      "quote": "Castanet supplies 13% of the French ones",
+      "claim": "Castanet supplies 13% of the French objects in the analyzed sample",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 19,
+      "page": 4,
+      "source": "discussion",
+      "quote": "so a national difference may reflect the excavation and preservation history of a few sites",
+      "claim": "National differences in sign repertoires may reflect excavation and preservation history of a few dominant sites",
+      "evidence_type": ["experiment", "related_work"]
+    },
+    {
+      "id": 20,
+      "page": 4,
+      "source": "discussion",
+      "quote": "Objects from the same layer are not independent, so sites rather than objects are the better unit of comparison",
+      "claim": "Sites rather than individual objects are the appropriate unit of comparison due to non-independence within layers",
+      "evidence_type": ["experiment", "theoretical"]
+    },
+    {
+      "id": 21,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "Germany and France share their common sign types and differ only in rare ones",
+      "claim": "Germany and France share common sign types and differ only in rare sign types",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 22,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "Notches and lines are the two most frequent signs in both countries",
+      "claim": "Notches and lines are the two most frequent sign types in both Germany and France",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 23,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "Notches appear on 57% of German objects and 45% of French objects",
+      "claim": "Notches appear on 57% of German objects and 45% of French objects",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 24,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "lines on 35% and 35%",
+      "claim": "Lines appear on 35% of German objects and 35% of French objects",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 25,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "oblique lines occur on 15% of German objects but 2% of French ones",
+      "claim": "Oblique lines occur on 15% of German objects but only 2% of French objects",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 26,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "vulva signs appear only in France, on 8% of French objects",
+      "claim": "Vulva signs appear only in France, on 8% of French objects",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 27,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the German objects",
+      "claim": "Three sites (Vogelherd, Hohle Fels, Geissenklösterle) supply 80% of German objects",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 28,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "so these few rare-sign contrasts do not yet show separate regional traditions",
+      "claim": "The rare-sign contrasts do not demonstrate separate regional sign traditions",
+      "evidence_type": ["experiment", "related_work"]
+    },
+    {
+      "id": 29,
+      "page": 2,
+      "source": "method",
+      "quote": "distinct(site_name, object_type, .keep_all = TRUE)",
+      "claim": "Duplicate removal is based on unique site_name and object_type combinations",
+      "evidence_type": ["code"]
+    },
+    {
+      "id": 30,
+      "page": 3,
+      "source": "method",
+      "quote": "pivot_longer(line:other, names_to = \"sign\", values_to = \"present\")",
+      "claim": "Sign types are coded in columns from 'line' through 'other'",
+      "evidence_type": ["code"]
+    },
+    {
+      "id": 31,
+      "page": 3,
+      "source": "results",
+      "quote": "top10 <- sign_freq |> summarise(n = sum(n_present), .by = sign) |> slice_max(n, n = 10, with_ties = FALSE)",
+      "claim": "The ten most common sign types are selected by total presence count across both countries",
+      "evidence_type": ["code"]
+    },
+    {
+      "id": 32,
+      "page": 4,
+      "source": "results",
+      "quote": "fct_reorder(site_name, n_site)",
+      "claim": "Sites in Figure 1 are ordered by their total number of analyzed objects",
+      "evidence_type": ["code", "experiment"]
+    },
+    {
+      "id": 33,
+      "page": 2,
+      "source": "introduction",
+      "quote": "well-dated layers (Higham et al., 2012)",
+      "claim": "Higham et al. (2012) provides well-dated layers for Geissenklösterle",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 34,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Conard, 2009",
+      "claim": "Conard (2009) reports the Hohle Fels female figurine age as at least 35,000 years",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 35,
+      "page": 2,
+      "source": "introduction",
+      "quote": "McPherron et al., 2022",
+      "claim": "McPherron et al. (2022) interprets repeated mark sequences as possible notational devices",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 36,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Vanhaeren & d'Errico, 2006",
+      "claim": "Vanhaeren & d'Errico (2006) show personal ornament repertoires differ between Aurignacian regions",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 37,
+      "page": 2,
+      "source": "introduction",
+      "quote": "Dutkiewicz et al., 2020",
+      "claim": "Dutkiewicz et al. (2020) created SignBase, a collection of geometric signs on Paleolithic mobile objects",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 38,
+      "page": 2,
+      "source": "method",
+      "quote": "Bentz et al., 2020",
+      "claim": "Bentz et al. (2020) is the SignBase main data file citation",
+      "evidence_type": ["related_work"]
+    },
+    {
+      "id": 39,
+      "page": 3,
+      "source": "method vs results",
+      "quote": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects",
+      "claim": "The raw SignBase has 531 objects but after filtering to Germany/France and deduplication only 108 remain",
+      "evidence_type": ["experiment", "code"]
+    },
+    {
+      "id": 40,
+      "page": 3,
+      "source": "results",
+      "quote": "Figure 1 shows how the common sign types are spread across these sites",
+      "claim": "Figure 1 caption states it shows the ten most common sign types by site",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 41,
+      "page": 4,
+      "source": "discussion",
+      "quote": "Vogelherd alone supplies 30% of the German objects, and Castanet supplies 13% of the French ones",
+      "claim": "The site-level concentration is higher in Germany (30% from one site) than France (13% from one site)",
+      "evidence_type": ["experiment"]
+    },
+    {
+      "id": 42,
+      "page": 5,
+      "source": "conclusion",
+      "quote": "Notches appear on 57% of German objects and 45% of French objects, and lines on 35% and 35%",
+      "claim": "The conclusion numbers (57%, 45%, 35%, 35%) match the calculated proportions from the analysis",
+      "evidence_type": ["experiment"]
+    }
+  ]
+}

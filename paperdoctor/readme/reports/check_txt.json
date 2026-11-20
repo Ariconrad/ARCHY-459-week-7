@@ -1,0 +1,149 @@
+{
+  "summary": {
+    "total_issues": 18,
+    "warning_issues": 16,
+    "error_issues": 2
+  },
+  "results": [
+    {
+      "page": 1,
+      "quote": "Warning: package 'tidyverse' was built under R version 4.5.3",
+      "status": "warning",
+      "reason": "R package startup messages appear in the rendered output — these should be suppressed with `message=FALSE` or `warning=FALSE` in the code chunk options.",
+      "suggest": "Add `message=FALSE, warning=FALSE` to the setup code chunk."
+    },
+    {
+      "page": 1,
+      "quote": "Attaching core tidyverse packages",
+      "status": "warning",
+      "reason": "Tidyverse attachment messages appear in the rendered output — these should be suppressed.",
+      "suggest": "Add `message=FALSE` to the setup code chunk."
+    },
+    {
+      "page": 1,
+      "quote": "Conflicts ────────────────────────────────────────── tidyverse_conflicts()",
+      "status": "warning",
+      "reason": "Tidyverse conflict messages appear in the rendered output — these should be suppressed.",
+      "suggest": "Add `message=FALSE, warning=FALSE` to the setup code chunk."
+    },
+    {
+      "page": 2,
+      "quote": "south­western Germany",
+      "status": "warning",
+      "reason": "Soft hyphen (­) appears in 'southwestern' — PDF parsing artifact from line break hyphenation.",
+      "suggest": "Remove soft hyphen; use 'southwestern' in source."
+    },
+    {
+      "page": 2,
+      "quote": "Geißenklösterle",
+      "status": "warning",
+      "reason": "The 'ß' character in 'Geißenklösterle' may be a PDF parsing artifact; the standard spelling is 'Geissenklösterle' or 'Geißenklösterle' depending on convention.",
+      "suggest": "Verify spelling in source document; use consistent transliteration."
+    },
+    {
+      "page": 2,
+      "quote": "SignBase v1.0 (Bentz et al., 2020) records 531 Aurignacian mobile objects",
+      "status": "warning",
+      "reason": "The number 531 appears as a computed value from the live data download; if the dataset updates, this number will change. Consider reporting the versioned dataset size.",
+      "suggest": "Note the dataset version/date when reporting record counts."
+    },
+    {
+      "page": 2,
+      "quote": "with 31 binary columns for the presence of each sign type",
+      "status": "warning",
+      "reason": "The column count (31) is computed from live data; same versioning concern as above.",
+      "suggest": "Report based on versioned dataset snapshot."
+    },
+    {
+      "page": 3,
+      "quote": "analysed sample contains 108 objects (46 German, 62 French)",
+      "status": "warning",
+      "reason": "British spelling 'analysed' used here; later sections use 'analyzed' (US spelling). Inconsistent spelling convention.",
+      "suggest": "Choose one spelling convention (analysed/analyzed) and use consistently throughout."
+    },
+    {
+      "page": 3,
+      "quote": "The most frequent sign type is notch in Germany and notch in France",
+      "status": "warning",
+      "reason": "Repetitive phrasing — 'notch in Germany and notch in France' could be streamlined to 'notch in both countries'.",
+      "suggest": "Rephrase: 'Notch is the most frequent sign type in both countries.'"
+    },
+    {
+      "page": 3,
+      "quote": "Figure 1 shows how the common sign types are spread across these sites",
+      "status": "warning",
+      "reason": "Figure reference uses 'Figure 1' but caption reads 'Figure 1:' — minor inconsistency in formatting.",
+      "suggest": "Ensure figure references match caption format consistently."
+    },
+    {
+      "page": 4,
+      "quote": "Vogelherd alone supplies 30% of the German objects",
+      "status": "warning",
+      "reason": "The percentage (30%) is computed from live data; should be reported with precision matching the data (e.g., 30.4% or 'approximately 30%').",
+      "suggest": "Report percentages to one decimal place or use 'approximately'."
+    },
+    {
+      "page": 4,
+      "quote": "Castanet supplies 13% of the French ones",
+      "status": "warning",
+      "reason": "Same versioning concern — computed percentage from live data without version pinning.",
+      "suggest": "Report with precision or note dataset version."
+    },
+    {
+      "page": 4,
+      "quote": "Objects from the same layer are not independent, so sites rather than objects are the better unit of comparison",
+      "status": "warning",
+      "reason": "Important statistical caveat — 'better unit of comparison' is a methodological claim that should be justified or referenced.",
+      "suggest": "Add citation or brief justification for site-level analysis choice."
+    },
+    {
+      "page": 5,
+      "quote": "Germany and France share their common sign types and differ only in rare ones",
+      "status": "warning",
+      "reason": "The phrase 'differ only in rare ones' overstates the evidence — the analysis only covers the top 10 sign types; differences in rarer signs are not examined.",
+      "suggest": "Qualify: 'differ only in rare sign types among those examined' or similar."
+    },
+    {
+      "page": 5,
+      "quote": "Notches appear on 57% of German objects and 45% of French objects",
+      "status": "warning",
+      "reason": "Percentages reported without confidence intervals or uncertainty quantification; these are sample proportions from a small, non-random sample.",
+      "suggest": "Add uncertainty estimates or qualify as 'in this sample'."
+    },
+    {
+      "page": 5,
+      "quote": "oblique lines occur on 15% of German objects but 2% of French ones",
+      "status": "warning",
+      "reason": "Same concern — raw percentages without uncertainty; small counts (especially 2% of 62 ≈ 1 object) make this unreliable.",
+      "suggest": "Report raw counts alongside percentages; avoid overinterpreting small-count differences."
+    },
+    {
+      "page": 5,
+      "quote": "vulva signs appear only in France, on 8% of French objects",
+      "status": "warning",
+      "reason": "8% of 62 ≈ 5 objects — small absolute count; 'only in France' may reflect sampling rather than true absence in Germany.",
+      "suggest": "Qualify: 'in this sample, vulva signs were observed only in France (5 objects)'."
+    },
+    {
+      "page": 5,
+      "quote": "Three sites (Vogelherd, Hohle Fels, and Geissenklösterle) supply 80% of the German objects",
+      "status": "warning",
+      "reason": "Geissenklösterle spelling differs from earlier 'Geißenklösterle' — inconsistent transliteration of 'ß'.",
+      "suggest": "Use consistent spelling for site names throughout (either 'ß' or 'ss')."
+    },
+    {
+      "page": 5,
+      "quote": "do not yet show separate regional traditions",
+      "status": "error",
+      "reason": "The conclusion 'do not yet show' implies future data might show traditions, but the sampling bias (3 sites = 80% of German sample) is a fundamental limitation, not a temporary data gap.",
+      "suggest": "Rephrase: 'cannot support claims of separate regional traditions given the sampling concentration'."
+    },
+    {
+      "page": 2,
+      "quote": "Palaeolithic",
+      "status": "error",
+      "reason": "Inconsistent spelling: 'Palaeolithic' (British) in main text vs 'Paleolithic' (US) in Dutkiewicz et al. (2020) reference title. Choose one convention.",
+      "suggest": "Standardize to 'Palaeolithic' throughout (or 'Paleolithic') for consistency."
+    }
+  ]
+}
